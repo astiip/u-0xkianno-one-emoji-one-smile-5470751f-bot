@@ -1,0 +1,1 @@
+{"description":"One emoji most likely to make a stranger smile — make.fun entry.","engines":{"node":">=22.18"},"license":"MIT","name":"u-0xkianno-one-emoji-one-smile-5470751f-bot","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
